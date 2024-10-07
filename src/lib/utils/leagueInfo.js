@@ -1,18 +1,16 @@
 /*   STEP 1   */
 export const leagueID = 1048353175486525440; // your league ID
-export const leagueName = "GSU Dynasty"; // your league name
+export const leagueName = "NAF + PRUITT"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>The League... Everyone wants to be a winner, but only a few have what it takes. As we all sadly work our 9-5s, we all look forward to one thing... Sundays.</p> 
+  <p>Our glorious host, Scott Hanson, gets us on edge all week to see the octobox live on TV.</p> 
+  <p>Sunday is the day when the boys can get together, laugh, drink, talk shit, but most importantly, slam nasty parlays and watch our fantasy teams kick ass (unless you're Specker).</p> 
+  <p>In this league, we have three types of people... The people who have no idea what they're doing (Keon Coleman at 4), the people who claim to be good (I hAvE tHe MoSt PoInTs ScOrEd AlL tImE), and the degenerates (Cam Akers and Devin Singlscary).</p> <p>At the end of the day, everyone wants to know... WHO WILL SEAL THE BAG?</p>
 `;
 
 /*   STEP 3   */
